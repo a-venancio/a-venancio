@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @a-venancio
+- 👀 I’m interested in backend and ia
+- 🌱 I’m currently learning php
+- 😄 Pronouns: she/her
